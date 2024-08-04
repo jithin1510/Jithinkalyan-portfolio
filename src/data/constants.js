@@ -109,9 +109,9 @@ export const Bio = {
     {
       id: 0,
       img: "",
-      school: "Sri Indu College of Engineering and Technology , Hyderabad",
+      school: "Sri Indu College of Engineering and Technology , Hyderabad, India",
       date: "2020-2024",
-      grade: "8.1 CGPA",
+      grade: "7.89 CGPA",
       desc: "I am currently pursuing a Bachelor's degree in Computer Science and Engineering at Sri Indu College of Engineering and Technology, Hyderabad. I have completed 7 semesters and have a CGPA of 8.1. I have taken courses in Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems, and Computer Networks, among others.",
       degree: "Bachelor of Technology - BTech, Computer Science and Engineering",
     }
