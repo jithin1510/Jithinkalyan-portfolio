@@ -11,7 +11,7 @@ export const Bio = {
     resume:
       "https://drive.google.com/file/d/1RroDIitkdhMFTnUV7vvIVJ-6FQYz7DTz/view?usp=sharing",
     linkedin: "https://www.linkedin.com/in/jithin-kalyan-tadaka-233152229",
-    insta: "https://www.instagram.com/ig_jithink/",
+    insta: "https://www.instagram.com/ig_jithinkalyan/",
     facebook: "https://www.facebook.com/jithinkalyan.tadaka",
   };
   
