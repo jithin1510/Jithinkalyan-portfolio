@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Jithinkalyan-portfolio/static/css/main.bf538fe7.css",
+    "main.js": "/Jithinkalyan-portfolio/static/js/main.11b76da7.js",
+    "static/media/HeroImage.jpg": "/Jithinkalyan-portfolio/static/media/HeroImage.4b15ebe9d67987240f2b.jpg",
+    "index.html": "/Jithinkalyan-portfolio/index.html",
+    "main.bf538fe7.css.map": "/Jithinkalyan-portfolio/static/css/main.bf538fe7.css.map",
+    "main.11b76da7.js.map": "/Jithinkalyan-portfolio/static/js/main.11b76da7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf538fe7.css",
+    "static/js/main.11b76da7.js"
+  ]
+}
