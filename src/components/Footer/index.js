@@ -2,7 +2,7 @@ import styled from 'styled-components';
 import FacebookIcon from '@mui/icons-material/Facebook';
 import LinkedInIcon from '@mui/icons-material/LinkedIn';
 import InstagramIcon from '@mui/icons-material/Instagram';
-import { CgMail } from "react-icons/cg"; 
+import EmailIcon from '@mui/icons-material/Email'; 
 import { Bio } from '../../data/constants';
 
 const FooterContainer = styled.div`
@@ -99,7 +99,7 @@ function Footer() {
           <SocialMediaIcon href={Bio.facebook} target="display"><FacebookIcon /></SocialMediaIcon>
           <SocialMediaIcon href={Bio.linkedin} target="display"><LinkedInIcon /></SocialMediaIcon>
           <SocialMediaIcon href={Bio.insta} target="display"><InstagramIcon /></SocialMediaIcon>
-          <SocialMediaIcon href={Bio.mail} target="display"><CgMail/></SocialMediaIcon>
+          <SocialMediaIcon href={Bio.mail} target="display"><EmailIcon/></SocialMediaIcon>
         </SocialMediaIcons>
         <Copyright>
           &copy; 2024 Jithin kalyan Tadaka. All rights reserved.
