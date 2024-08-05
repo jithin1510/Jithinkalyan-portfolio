@@ -99,7 +99,7 @@ function Footer() {
           <SocialMediaIcon href={Bio.facebook} target="display"><FacebookIcon /></SocialMediaIcon>
           <SocialMediaIcon href={Bio.linkedin} target="display"><LinkedInIcon /></SocialMediaIcon>
           <SocialMediaIcon href={Bio.insta} target="display"><InstagramIcon /></SocialMediaIcon>
-          <SocialMediaIcon href={Bio.mail} target="display"><EmailIcon/></SocialMediaIcon>
+          {/* <SocialMediaIcon href={Bio.mail} target="display"><EmailIcon/></SocialMediaIcon> */}
         </SocialMediaIcons>
         <Copyright>
           &copy; 2024 Jithin kalyan Tadaka. All rights reserved.
