@@ -1,9 +1,8 @@
 export const Bio = {
     name: "Jithin kalyan Tadaka",
     roles: [
-      "Full stack Developer",
+      "Frontend Developer",
       "Programmer",
-      
     ],
     description:
       "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
@@ -13,7 +12,7 @@ export const Bio = {
     linkedin: "https://www.linkedin.com/in/jithin-kalyan-tadaka-233152229",
     insta: "https://www.instagram.com/ig_jithinkalyan/",
     facebook: "https://www.facebook.com/jithinkalyan.tadaka",
-    mail: "https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcRzDfbNnGJdfDkrVSPrtdFKLpwztjFHZrdPcpVVJLxgTMMZVrWBsKRvkzZLwNlNxkrrCqTlW",
+    mail: "https://www.gmail.com/jithinkalyan@gmail.com",
   };
   
   export const skills = [
@@ -123,9 +122,9 @@ export const Bio = {
       title: "IMAGE RETRIEVAL BASED ON BLOCKCHAIN TECHNOLOGY",
       date: "",
       description:
-        "The integration of blockchain technology in image retrieval systems offers a decentralized, secure, and transparent solution to centralized challenges. It leverages immutability, smart contracts, and a decentralized consensus mechanism, enhancing security against unauthorized access and data tampering",
-      image:
-        " ",
+      "The integration of blockchain technology in image retrieval systems offers a decentralized, secure, and transparent solution to centralized challenges. It leverages immutability, smart contracts, and a decentralized consensus mechanism, enhancing security against unauthorized access and data tampering",
+      
+      image:"https://supplychainmanagement.utk.edu/wp-content/uploads/sites/2/2022/09/guerrillabuzz-crypto-pr-T9rKvI3N0NM-unsplash-1536x864.jpg",
       tags: [
         "Python",
         "HTML",
@@ -145,12 +144,24 @@ export const Bio = {
       title: "PREDICTION OF SOCIAL FOCAL POINTS USING NEURAL NETWORK AND MULTI MESSAGE ENGAGEMENT ANALYSIS",
       date: "",
       description:
-        "•Prediction of social focal factors(hotspot events over internet) made easier through integrating BP neural networks with annealing set of rules .",
+        "Prediction of social focal factors(hotspot events over internet) made easier through integrating BP neural networks with annealing set of rules .",
       image:
-        "",
+        "https://i0.wp.com/www.theofficialblackmagazine.com/wp-content/uploads/2022/01/SMT.jpg?fit=815%2C512&ssl=1",
       tags: ["JavaScript", "CSS", "HTML", "TOMCAT server","PostgreSQL","BP Neural Network"],
       category: "web app",
       github: "",
+    },
+    {
+      id: 1,
+      title: " BABJI AI PERSONAL VOICE ASSITANT",
+      date: "",
+      description:
+        "Using voice recognition, selenium to automate web browser, and other few modules made an assistant.",
+      image:
+        "https://miro.medium.com/v2/resize:fit:828/format:webp/0*mHav5mZQsFVbp7G_",
+      tags: ["Python","Selenium"],
+      category: "Program",
+      github: "https://github.com/jithin1510/BABJI-MADE-A-PYTHON-PROJECT-THAT-ACTS-AS-AN-PERSONAL-ASSISTANT",
     }
   ];
   
