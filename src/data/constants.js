@@ -12,7 +12,7 @@ export const Bio = {
     linkedin: "https://www.linkedin.com/in/jithin-kalyan-tadaka-233152229",
     insta: "https://www.instagram.com/ig_jithinkalyan/",
     facebook: "https://www.facebook.com/jithinkalyan.tadaka",
-    mail: "https://www.gmail.com/jithinkalyan@gmail.com",
+    // mail: "https://www.gmail.com/jithinkalyan@gmail.com",
   };
   
   export const skills = [
